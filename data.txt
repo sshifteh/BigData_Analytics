@@ -1,0 +1,3 @@
+WEO Country Code|ISO|WEO Subject Code|Country|Subject Descriptor
+512|AFG|NGDP_R|Afghanistan|Gross domestic product, constant prices
+512|AFG|NGDP_RPCH|Afghanistan|Gross domestic product, constant prices
