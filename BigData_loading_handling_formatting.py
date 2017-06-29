@@ -70,7 +70,6 @@ def main():
 
     df_years.to_excel('year2000-2015.xls', sheet_name='sheet1', index=False)
     df.to_excel('all_data.xls', sheet_name='sheet1', index=False)
-    # FIXME! To answer the GDP question use a graph, histogram or something similar.
 
 
 
