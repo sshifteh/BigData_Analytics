@@ -7,7 +7,7 @@ Tools used are Python 2.7 on MacOS 10.12.
 
 *******************************************************
 
-Project 1: 
+PROJECT 1: 
 This project is an analysis of the paper "Using Data Mining for Bank Direct Marketing: An Application of the CRISP-DM Methodology" by Moro and others. 
 It is a quality check of the support vector machine and decision tree model. In addition a k-nearest neighbour is tested. 
 One of the main findings is the feature importance. 
@@ -32,7 +32,6 @@ bank-data-info.txt: Explains the features in the dataset.
 PROJECT 2: 
 This project is a Machine learning classification project with the fruit data set, where fruit is characterized with certain features. 
 The files are:
-
 ML_fruit_data.py: examines and plots the data. Then uses the classifiers to label the test data and the decision boundary 
 is plotted. 
 
