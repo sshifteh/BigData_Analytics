@@ -1,8 +1,11 @@
 # BigData_Analytics
-
-This folder contains projects that aim to analyse data. 
+*******************************************************
+This folder contains projects that aim to analyse data by libraries such as pandas, scikit learn, numpy, matplotlib etc. 
 Tools used are Python 2.7 on MacOS 10.12. 
+*******************************************************
 
+
+*******************************************************
 
 Project 1: 
 This project is an analysis of the paper "Using Data Mining for Bank Direct Marketing: An Application of the CRISP-DM Methodology" by Moro and others. 
@@ -19,12 +22,13 @@ ML_knn_bank.py: Analyses the knn classifier on the dataset.
 bank.csv: Is the dataset used in the analysis files. 
 
 bank-data-info.txt: Explains the features in the dataset. 
+*******************************************************
 
 
 
 
 
-
+*******************************************************
 PROJECT 2: 
 This project is a Machine learning classification project with the fruit data set, where fruit is characterized with certain features. 
 The files are:
@@ -33,10 +37,14 @@ ML_fruit_data.py: examines and plots the data. Then uses the classifiers to labe
 is plotted. 
 
 fruit_data_with_colors.txt: is the dataset containing the fruit characteristics and labels. 
+*******************************************************
 
 
 
 
+
+
+*******************************************************
 PROJECT 3: 
 This project is an examination of a consumer dataset. 
 The files in this project are: 
@@ -44,9 +52,14 @@ The files in this project are:
 examine_sample_orders.py: where the data is formatted, examined and explored. And hypothesis are tested using frequency plots. 
 
 SampleOrders.csv: is the dataset with the consumer information.
+*******************************************************
 
 
 
+
+
+
+*******************************************************
 
 PROJECT 4: 
 This project is about tidy up and formatting a really messy file in order to be able to use the data to answer specific questions. 
@@ -57,5 +70,6 @@ The files are:
 BigData_loading_handling_formatting.py: this program aims to load and format the data.
 
 WEOAPr2017all.csv: is the data set. 
+*******************************************************
 
 
