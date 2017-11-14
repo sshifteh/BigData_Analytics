@@ -1,13 +1,30 @@
 # BigData_Analytics
 *******************************************************
-This folder contains projects that aim to analyse data by libraries such as pandas, scikit learn, numpy, matplotlib etc. 
+This folder contains projects that aim to analyse data by using libraries such as pandas, scikit learn, tensorflow, numpy, matplotlib etc. 
 Tools used are Python 2.7 on MacOS 10.12. 
 *******************************************************
 
 
+
+
+
+
 *******************************************************
 
-PROJECT 1: 
+Project 5: 
+This project is a from Peter Sergio Fløgstads tutorial about building a neural network in tensor flow. 
+As of now the placeholders, variables, operations, softmax, cost and optimization part is done. 
+In works is the sessions part. 
+*******************************************************
+
+
+
+
+
+
+*******************************************************
+
+PROJECT 4: 
 This project is an analysis of the paper "Using Data Mining for Bank Direct Marketing: An Application of the CRISP-DM Methodology" by Moro and others. 
 It is a quality check of the support vector machine and decision tree model. In addition a k-nearest neighbour is tested. 
 One of the main findings is the feature importance. 
@@ -29,7 +46,7 @@ bank-data-info.txt: Explains the features in the dataset.
 
 
 *******************************************************
-PROJECT 2: 
+PROJECT 3: 
 This project is a Machine learning classification project with the fruit data set, where fruit is characterized with certain features. 
 The files are:
 ML_fruit_data.py: examines and plots the data. Then uses the classifiers to label the test data and the decision boundary 
@@ -44,7 +61,7 @@ fruit_data_with_colors.txt: is the dataset containing the fruit characteristics 
 
 
 *******************************************************
-PROJECT 3: 
+PROJECT 2: 
 This project is an examination of a consumer dataset. 
 The files in this project are: 
 
@@ -60,7 +77,7 @@ SampleOrders.csv: is the dataset with the consumer information.
 
 *******************************************************
 
-PROJECT 4: 
+PROJECT 1: 
 This project is about tidy up and formatting a really messy file in order to be able to use the data to answer specific questions. 
 The dataset is the GDP of all the countries in the word. And the question could for example be which has the highest or lowest according to the data. 
 However the data is really messy with many duplicate entries and too many features. So this is a challenging task.
