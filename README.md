@@ -12,9 +12,13 @@ Tools used are Python 2.7 on MacOS 10.12.
 *******************************************************
 
 Project 5: 
-This project is a from Peter Sergio Fløgstads tutorial about building a neural network in tensor flow. 
+This project is from Peter Sergio Fløgstad's tutorial about building a neural network in tensor flow. 
 As of now the placeholders, variables, operations, softmax, cost and optimization part is done. 
 In works is the sessions part. 
+Files are: 
+ML_tensorflow_HRdata.py : this file contains the code for the building of the neural network.
+
+HR_comma_sep.csv: this is the dataset used
 *******************************************************
 
 
